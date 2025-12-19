@@ -1,1 +1,0 @@
-// Arquivo desativado. Todo o código está no index.html.
