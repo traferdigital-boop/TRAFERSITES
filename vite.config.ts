@@ -1,0 +1,1 @@
+// Configuração removida. O projeto agora é estático puro.
